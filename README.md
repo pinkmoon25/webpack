@@ -1,8 +1,6 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Webpack
 
-> I have created a webpack-boilerplate to be used as a starting points in Node.js projects. I have implemeted the basic setups, created bundle to handle the modules effectively, added npm scripts , a local dev server and the configuration settings required. 
+I have created a webpack-boilerplate to be used as a starting points in Node.js projects. I have implemeted the basic setups, created bundle to handle the modules effectively, added npm scripts , a local dev server and the configuration settings required. 
 
 ## Authors
 
