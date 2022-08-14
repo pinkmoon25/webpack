@@ -4,9 +4,9 @@ I have created a webpack-boilerplate to be used as a starting points in Node.js 
 
 ## Authors
 
-👤 **Author1**
+👤 ***Tushar Singh***
 
-- GitHub: [@githubhandle](https://github.com/PinkMoon25)
+- GitHub: [@PinkMoon25](https://github.com/PinkMoon25/)
 - Twitter: [@twitterhandle](https://twitter.com/TusharS90674484)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tushar-singh-6b063a14b/)
 
